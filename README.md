@@ -1,6 +1,10 @@
 # Hi 👋, I'm Sanzana Mahmud
 
-### Frontend Developer | React & TypeScript
+### Frontend Developer | React & TypeScript & Next.js
+
+<p align="center">
+  <img src="./Github-banner.png" alt="Sanzana Mahmud Banner" width="100%">
+</p>
 
 ---
 
