@@ -74,16 +74,6 @@ I enjoy learning new technologies, solving problems, and improving my developmen
 
 ---
 
-## 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=san-zanaa&layout=compact&theme=tokyonight" />
-
-</p>
-
----
-
 ## 📚 Currently Learning
 
 <p align="left">
