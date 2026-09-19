@@ -2,9 +2,6 @@
 
 ### Frontend Developer | React & TypeScript
 
-📍 Dhaka, Bangladesh
-📧 sanzanamahmud1@gmail.com
-
 ---
 
 ## 👨‍💻 About Me
@@ -61,13 +58,13 @@ I enjoy learning new technologies, solving problems, and improving my developmen
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=san-zanaa&show_icons=true&theme=tokyonight" />
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=san-zanaa&theme=tokyonight" />
 
 </p>
 
@@ -77,19 +74,9 @@ I enjoy learning new technologies, solving problems, and improving my developmen
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=san-zanaa&layout=compact&theme=tokyonight" />
 
 </p>
-
----
-
-### 🎤 DevConf
-
-A modern and responsive developer conference landing page built with HTML, CSS, and JavaScript.
-
-**Tech:** HTML • CSS • JavaScript
-
-🔗 Live Demo: YOUR-LIVE-LINK
 
 ---
 
